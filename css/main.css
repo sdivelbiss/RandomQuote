@@ -1,0 +1,39 @@
+html {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	background-color: black;
+	background-size: cover;
+}
+
+button {
+	border: none;
+	color: white;
+	margin-top: 18%;
+	font-size: 75px;
+	background-color: black;
+	outline: none;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+
+h1 {
+	font-size: 75px;
+	font-weight: 700;
+	color: white;
+	position: absolute;
+	margin: 0 auto;
+	width: 100%;
+	padding-top: 100px;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 700;
+	position: absolute;
+	padding-top: 250px;
+	margin: 0 auto;
+	width: 100%;
+	color: white;
+	
+}
